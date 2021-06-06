@@ -1,5 +1,5 @@
 # Mintable-BEP20-token
-Leave owner as minter
+Leave owner as minter. Standard decimals are set to 2.
 
 Same as most other mintable tokens. Not used as automatic crowdsale contract by its own.
 
